@@ -1,0 +1,82 @@
+# אורון דואק | עורכי דין — Generative Engine Optimization Map
+
+> A law firm specializing in professional lending services, focusing on borrower signing processes and collateral registration. The firm serves professional lenders and operates in the financial-legal niche, providing expert legal support for loan documentation and security interest registration. The practice is highly specialized, catering to a B2B audience of professional lenders who require precise legal execution in credit transactions.
+
+---
+
+## Pages
+
+### דף הבית
+https://-ca57c781.zappy5.app
+מחפשים עורך דין לרישום משכנתה בטאבו שמבין את עולם המימון? במשרדנו תקבלו ליווי משפטי מדויק ואמין לרישום בטוחות ושעבודים. לחצו לייעוץ ראשוני עוד היום!
+
+### שירותים
+https://-ca57c781.zappy5.app/services
+הכירו את שירותי החיתום המשפטי לעסקאות מימון נדל&quot;ן. אנו מתמחים בתהליכי חתימת לווים ורישום בטוחות, עם דגש על מהירות ודיוק משפטי. היכנסו לראות את חבילות השירות המותאמות למלווים מקצועיים.
+
+### אודות
+https://-ca57c781.zappy5.app/about
+משרד עורכי דין בוטיקי המתמחה בליווי מלווים מקצועיים. אנו מביאים ניסיון עשיר ברישומי משכנתה בטאבו, ניהול סיכונים משפטיים וביצוע עסקאות אשראי מורכבות. גלו את הסיפור והערכים שמאחורי ההצלחה.
+
+### צור קשר
+https://-ca57c781.zappy5.app/contact
+מוכנים לסגור את העסקה הבאה בביטחון מלא? השאירו פרטים ונחזור אליכם עם פתרון משפטי מהיר ויעודי לרישום בטוחות ומשכנתאות. הדרך לעסקה סגורה מתחילה כאן.
+
+### תודה שפניתם אלינו
+https://-ca57c781.zappy5.app/thank-you
+אורון דואק | עורכי דין - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ca57c781.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ca57c781.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ca57c781.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-ca57c781.zappy5.app/contact
+- Endpoint: https://-ca57c781.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אורון דואק | עורכי דין
+A law firm specializing in professional lending services, focusing on borrower signing processes and collateral registration. The firm serves professional lenders and operates in the financial-legal niche, providing expert legal support for loan documentation and security interest registration. The practice is highly specialized, catering to a B2B audience of professional lenders who require precise legal execution in credit transactions.
+
+## Target Audience
+- מלווים מקצועיים
+- משקיעי נדל"ן
+- מעניקי הלוואות לעסקים
+
+## Industry
+Legal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-ca57c781.zappy5.app/sitemap.xml
+- Robots: https://-ca57c781.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-ca57c781.zappy5.app/llms-full.txt
