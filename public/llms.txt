@@ -7,37 +7,37 @@
 ## Pages
 
 ### דף הבית
-https://-ca57c781.zappy5.app
+https://example.com
 מחפשים עורך דין לרישום משכנתה בטאבו שמבין את עולם המימון? במשרדנו תקבלו ליווי משפטי מדויק ואמין לרישום בטוחות ושעבודים. לחצו לייעוץ ראשוני עוד היום!
 
 ### שירותים
-https://-ca57c781.zappy5.app/services
+https://example.com/services
 הכירו את שירותי החיתום המשפטי לעסקאות מימון נדל&quot;ן. אנו מתמחים בתהליכי חתימת לווים ורישום בטוחות, עם דגש על מהירות ודיוק משפטי. היכנסו לראות את חבילות השירות המותאמות למלווים מקצועיים.
 
 ### אודות
-https://-ca57c781.zappy5.app/about
+https://example.com/about
 משרד עורכי דין בוטיקי המתמחה בליווי מלווים מקצועיים. אנו מביאים ניסיון עשיר ברישומי משכנתה בטאבו, ניהול סיכונים משפטיים וביצוע עסקאות אשראי מורכבות. גלו את הסיפור והערכים שמאחורי ההצלחה.
 
 ### צור קשר
-https://-ca57c781.zappy5.app/contact
+https://example.com/contact
 מוכנים לסגור את העסקה הבאה בביטחון מלא? השאירו פרטים ונחזור אליכם עם פתרון משפטי מהיר ויעודי לרישום בטוחות ומשכנתאות. הדרך לעסקה סגורה מתחילה כאן.
 
 ### תודה שפניתם אלינו
-https://-ca57c781.zappy5.app/thank-you
+https://example.com/thank-you
 אורון דואק | עורכי דין - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-ca57c781.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-ca57c781.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-ca57c781.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-ca57c781.zappy5.app/contact
-- Endpoint: https://-ca57c781.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Legal Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-ca57c781.zappy5.app/sitemap.xml
-- Robots: https://-ca57c781.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-ca57c781.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
