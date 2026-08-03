@@ -44,7 +44,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: Ofiice@oron.law
+- Phone: 03-3301549
+- Phone (tel): tel:033301549
+- Address: שד' נים 2, ראשון לציון, 7549602, Israel
 
 ### Contact form
 - URL: https://example.com/contact
