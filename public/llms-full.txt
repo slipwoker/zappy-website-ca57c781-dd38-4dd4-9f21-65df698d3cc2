@@ -2,13 +2,13 @@
 
 A law firm specializing in professional lending services, focusing on borrower signing processes and collateral registration. The firm serves professional lenders and operates in the financial-legal niche, providing expert legal support for loan documentation and security interest registration. The practice is highly specialized, catering to a B2B audience of professional lenders who require precise legal execution in credit transactions.
 
-Source: https://example.com
+Source: https://oron-doeuk-law-offices.zappy5.app
 
 ---
 
 ## משרד עורכי דין מוביל לרישום משכנתה בטאבו — אורון דואק | עורכי דין
 
-URL: https://example.com
+URL: https://oron-doeuk-law-offices.zappy5.app
 Description: מחפשים עורך דין לרישום משכנתה בטאבו שמבין את עולם המימון? במשרדנו תקבלו ליווי משפטי מדויק ואמין לרישום בטוחות ושעבודים. לחצו לייעוץ ראשוני עוד היום!
 
 משרד עורכי דין מוביל לרישום משכנתה בטאבו — אורון דואק | עורכי דין
@@ -254,7 +254,7 @@ Description: מחפשים עורך דין לרישום משכנתה בטאבו �
 
 ## חבילות ליווי משפטי לרישום שעבודים ומשכנתאות — אורון דואק | עורכי דין
 
-URL: https://example.com/services
+URL: https://oron-doeuk-law-offices.zappy5.app/services
 Description: הכירו את שירותי החיתום המשפטי לעסקאות מימון נדל&quot;ן. אנו מתמחים בתהליכי חתימת לווים ורישום בטוחות, עם דגש על מהירות ודיוק משפטי. היכנסו לראות את חבילות השירות המותאמות למלווים מקצועיים.
 
 חבילות ליווי משפטי לרישום שעבודים ומשכנתאות — אורון דואק | עורכי דין
@@ -504,7 +504,7 @@ Description: הכירו את שירותי החיתום המשפטי לעסקאו
 
 ## הכירו את המומחיות מאחורי משרד עורכי הדין למימון — אורון דואק | עורכי דין
 
-URL: https://example.com/about
+URL: https://oron-doeuk-law-offices.zappy5.app/about
 Description: משרד עורכי דין בוטיקי המתמחה בליווי מלווים מקצועיים. אנו מביאים ניסיון עשיר ברישומי משכנתה בטאבו, ניהול סיכונים משפטיים וביצוע עסקאות אשראי מורכבות. גלו את הסיפור והערכים שמאחורי ההצלחה.
 
 הכירו את המומחיות מאחורי משרד עורכי הדין למימון — אורון דואק | עורכי דין
@@ -929,7 +929,7 @@ Description: משרד עורכי דין בוטיקי המתמחה בליווי �
 
 ## צרו קשר עם עורך דין לרישום משכנתה בטאבו עוד היום — אורון דואק | עורכי דין
 
-URL: https://example.com/contact
+URL: https://oron-doeuk-law-offices.zappy5.app/contact
 Description: מוכנים לסגור את העסקה הבאה בביטחון מלא? השאירו פרטים ונחזור אליכם עם פתרון משפטי מהיר ויעודי לרישום בטוחות ומשכנתאות. הדרך לעסקה סגורה מתחילה כאן.
 
 צרו קשר עם עורך דין לרישום משכנתה בטאבו עוד היום — אורון דואק | עורכי דין
@@ -1329,7 +1329,7 @@ Ofiice@oron.law
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://oron-doeuk-law-offices.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1578,7 +1578,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://oron-doeuk-law-offices.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1836,7 +1836,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://oron-doeuk-law-offices.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -2113,7 +2113,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפניתם אלינו
 
-URL: https://example.com/thank-you
+URL: https://oron-doeuk-law-offices.zappy5.app/thank-you
 Description: אורון דואק | עורכי דין - תודה שפניתם אלינו
 
 תודה שפניתם אלינו
